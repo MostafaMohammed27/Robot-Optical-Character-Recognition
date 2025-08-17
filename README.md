@@ -1,0 +1,1 @@
+This robot will cycle through scanned receipts in a folder, opening each one individually to extract fields such as receipt ID, date, and total amount, then compile this data into an Excel sheet Using UIPath.
